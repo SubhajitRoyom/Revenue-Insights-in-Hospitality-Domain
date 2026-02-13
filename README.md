@@ -100,5 +100,5 @@ The dataset consists of 5 CSV files:
 
 
 ```markdown
-[Dashboard Preview](<img width="1920" height="1080" alt="Screenshot (569)" src="https://github.com/user-attachments/assets/e420fd14-8163-4ec8-8e9a-70d3514e7923" />
+![Dashboard Preview](https://github.com/SubhajitRoyom/Revenue-Insights-in-Hospitality-Domain/blob/main/dashboard%20view/Screenshot%20(569).png
 )
