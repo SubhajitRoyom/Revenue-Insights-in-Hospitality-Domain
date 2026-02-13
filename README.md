@@ -1,4 +1,4 @@
-# 📊 Revenue Insights in Hospitality Domain | Power BI Project
+#  📊 Revenue Insights in Hospitality Domain | Power BI Project
 
 ## 🔎 Problem Statement
 
