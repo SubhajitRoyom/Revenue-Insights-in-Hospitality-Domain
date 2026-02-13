@@ -101,4 +101,5 @@ The dataset consists of 5 CSV files:
 ![Dashboard Preview](https://github.com/SubhajitRoyom/Revenue-Insights-in-Hospitality-Domain/blob/main/dashboard%20view/Screenshot%20(569).png)
 
 ## Live Dashboard
-![Link](https://app.powerbi.com/view?r=eyJrIjoiMTAzMGM0YWUtMDY0Mi00OGVmLTlmNDEtN2U2YjllMzZhNDJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+* ![Link](https://app.powerbi.com/view?r=eyJrIjoiMTAzMGM0YWUtMDY0Mi00OGVmLTlmNDEtN2U2YjllMzZhNDJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
